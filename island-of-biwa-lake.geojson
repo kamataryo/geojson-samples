@@ -68,6 +68,23 @@
           35.008451913591884
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "多景島",
+        "description": "お寺があります。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.17794036865234,
+          35.296633426438966
+        ]
+      }
     }
   ]
 }
