@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "description": "クルーズできます。",
+        "title": "竹生島"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.14395141601562,
+          35.42262976362149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "沖島",
+        "description": "日本唯一の湖上有人島です。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.06224060058594,
+          35.20859959405327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "沖の白石",
+        "description": "琵琶湖の真ん中にある岩です。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.12884521484375,
+          35.30475911605338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "矢橋帰帆島",
+        "description": "公園があります。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.91285228729248,
+          35.008451913591884
+        ]
+      }
+    }
+  ]
+}
